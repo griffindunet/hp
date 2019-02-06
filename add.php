@@ -1,5 +1,5 @@
   <?php
-    if (isset($_POST['mot_de_passe']) AND $_POST['mot_de_passe'] ==  "tintin06R3MY") // Si le mot de passe est bon
+    if (isset($_POST['mot_de_passe']) AND $_POST['mot_de_passe'] ==  "123456") // Si le mot de passe est bon
     {
     // On affiche les codes
     ?>
