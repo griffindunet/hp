@@ -1,9 +1,9 @@
 <?php
 
 $host="localhost";
-$dbname="persore1_remywilmet";
-$name="remy_wilmet";
-$mdp="f6K0%yx3";
+$dbname="hp_fan";
+$name="root";
+$mdp="";
 
 
 try
